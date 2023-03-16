@@ -40,6 +40,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970763120875:android:1413af5631125179c24eae",
+        "android_client_info": {
+          "package_name": "com.example.ios_notification_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970763120875-8842jckltoe8tqaq5346s268p62cetgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgv-j_-cjkG58UF4Gk9M__f1X2dpoyev0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970763120875-8842jckltoe8tqaq5346s268p62cetgv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "970763120875-801mp4939k3nl99caoj4vu9vme2a24qa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.androidIosNotificationFlutter"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

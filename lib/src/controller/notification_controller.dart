@@ -32,11 +32,10 @@ _onMessage() {
     print('Message data: ${message.data}');
     print('Message Title: ${message.notification?.title}');
     print('Message body: ${message.notification?.body}');
-  
+
     if (message.notification != null) {
       print('Message also contained a notification: ${message.notification}');
     }
-    
   });
 }
 
@@ -53,3 +52,9 @@ _onMessage() {
 //  _getDeviceFirebaseToken() async {
 //     final token = await FirebaseMessaging.instance.getToken();
 //   }
+
+
+
+
+
+

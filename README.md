@@ -1,4 +1,4 @@
-# android_ios_notification_flutter
+# ios_notification_android
 
 A new Flutter project.
 

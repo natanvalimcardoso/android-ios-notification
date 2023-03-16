@@ -1,6 +1,6 @@
 {
-    "name": "android_ios_notification_flutter",
-    "short_name": "android_ios_notification_flutter",
+    "name": "ios_notification_android",
+    "short_name": "ios_notification_android",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

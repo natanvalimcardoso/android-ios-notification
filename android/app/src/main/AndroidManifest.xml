@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android_ios_notification_flutter">
+    package="com.example.ios_notification_android">
    <application
-        android:label="android_ios_notification_flutter"
+        android:label="ios_notification_android"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
